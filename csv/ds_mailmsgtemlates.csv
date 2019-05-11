@@ -1,0 +1,12 @@
+<strong>[用户]</strong>身份验证通知,账户安全认证 - {$site_name},authenticate,【{$site_name}】您于{$send_time}提交账户安全验证，验证码是：{$verify_code}。
+<strong>[用户]</strong>邮箱验证通知,邮箱验证通知 - {$site_name},bind_email,"<p>您好！</p>
+<p>请在24小时内点击以下链接完成邮箱验证</p>
+<p><a href=""{$verify_url}"" target=""_blank"">马上验证</a></p>
+<p>如果您不能点击上面链接，还可以将以下链接复制到浏览器地址栏中访问</p>
+<p>{$verify_url}</p>"
+<strong>[用户]</strong>手机验证通知,手机验证通知 - {$site_name},modify_mobile,【{$site_name}】您于{$send_time}绑定手机号，验证码是：{$verify_code}。
+<strong>[用户]</strong>重置密码通知,重置密码通知 - {$site_name},reset_pwd,"<p>您好！</p>
+<p>您刚才在{$site_name}重置了密码，新密码为：{$new_password}。</p>
+<p>请尽快登录 <a href=""{$site_url}"" target=""_blank"">{$site_url}</a> 修改密码。</p>"
+<strong>[用户]</strong>自提通知,用户自提通知 - {$site_name},send_pickup_code,【{$site_name}】您的订单已到达自提点，请上门取货！提货时请提供手机号/订单号/运单号及提货码：{$pickup_code}。
+<strong>[用户]</strong>虚拟兑换码通知,虚拟兑换码通知 - {$site_name},send_vr_code,【{$site_name}】您的虚拟兑换码是：{$vr_code}。

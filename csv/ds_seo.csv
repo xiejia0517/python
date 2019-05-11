@@ -1,0 +1,13 @@
+1,{sitename} - 程序来源于德尚网络,"DSMALL,PHP商城系统,DSMALL商城系统,多用户商城系统,电商ERP,电商CRM,电子商务解决方案",,index
+2,{sitename} - 抢购,"DSMALL,{sitename}",,group
+3,{sitename} - {name},"DSMALL,{name},{sitename}","DSMALL,{name},{sitename}",group_content
+4,{sitename} - 品牌,"DSMALL,{sitename}","DSMALL,{sitename}",brand
+5,{sitename} - {name},"DSMALL,{sitename},{name}","DSMALL,{sitename},{name}",brand_list
+7,{sitename} - {name},"DSMALL,{sitename},{name}","DSMALL,{sitename},{name}",coupon_content
+8,{sitename} - 积分商城,"DSMALL,{sitename}","DSMALL,{sitename}",point
+9,{sitename} - {name},"DSMALL,{sitename},{key}","DSMALL,{sitename},{description}",point_content
+10,{sitename} - {article_class},"DSMALL,{sitename}","DSMALL,{sitename}",article
+11,{sitename} - {name},"DSMALL,{sitename},{key}","DSMALL,{sitename},{description}",article_content
+12,{sitename} - {shopname},"DSMALL,{sitename},{key}","DSMALL,{sitename},{description}",shop
+13,{name} - {sitename},"DSMALL,{sitename},{key}","DSMALL,{sitename},{description}",product
+14,看{name}怎么淘到好的宝贝-{sitename},"DSMALL,{sitename},{name}","DSMALL,{sitename},{name}",sns
